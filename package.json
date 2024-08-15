@@ -1,0 +1,25 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "test sumbouled git",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marisb11/BaseModule.git"
+  },
+  "author": "MarisBerzins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marisb11/BaseModule/issues"
+  },
+  "homepage": "https://github.com/marisb11/BaseModule#readme",
+  "devDependencies": {
+    "@types/node": "^22.3.0",
+    "typescript": "^5.5.4"
+  }
+}
