@@ -5,3 +5,5 @@ if (c > 5) {
 } else {
   console.log(" C ir maziņš ");
 }
+
+// /asjdabsbaslba
