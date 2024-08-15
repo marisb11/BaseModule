@@ -1,0 +1,3 @@
+[submodule "subModule"]
+	path = subModule
+	url = git@github.com:marisb11/subModule.git
